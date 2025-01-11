@@ -85,11 +85,13 @@
 </div>
 
 ###
+
 <picture>
 <source media="(prefers-color-schema-dark)" srcset="https://raw.githubusercontent.com/lanokagato/lanokagato/output/snake.svg"/>
 <source media="(prefers-color-schema-light)" srcset="https://raw.githubusercontent.com/lanokagato/lanokagato/output/snake.svg"/>
 <img src="https://raw.githubusercontent.com/lanokagato/lanokagato/output/snake.svg" alt="Snake animation" />
 </picture>
+
 ###
 
 <div align="center">
