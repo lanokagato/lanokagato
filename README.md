@@ -87,8 +87,8 @@
 ###
 
 <picture>
-<source media="(prefers-color-schema-dark)" srcset="https://raw.githubusercontent.com/lanokagato/lanokagato/output/snake.svg"/>
-<source media="(prefers-color-schema-light)" srcset="https://raw.githubusercontent.com/lanokagato/lanokagato/output/snake.svg"/>
+<source media="(prefers-color-schema-dark)" srcset="https://raw.githubusercontent.com/lanokagato/lanokagato/output/github-snake-dark.svg"/>
+<source media="(prefers-color-schema-light)" srcset="https://raw.githubusercontent.com/lanokagato/lanokagato/output/github-snake.svg"/>
 <img src="https://raw.githubusercontent.com/lanokagato/lanokagato/output/snake.svg" alt="Snake animation" />
 </picture>
 
