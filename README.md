@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🇮🇹 Hi I’m a guy from Italy<br><br>🎯 I’m passionate about programming and everything related to this world.<br>🎀 I strive to expand my knowledge and improve my programming skills.<br><br>🎊 I’m still a beginner developer, but if you have an interesting project or a great idea to discuss, I’d be happy to hear it and collaborate!</p>
+<p align="left">🧙‍♂️ Hi I’m a guy from Italy<br>🎯 I’m passionate about programming and everything related to this world.<br>🎀 I strive to expand my knowledge and improve my programming skills.<br>🎊 I’m still a beginner developer, but if you have an interesting project or a great idea to discuss, I’d be happy to hear it and collaborate!</p>
 
 
 ###
