@@ -82,7 +82,9 @@
 
 ###
 <div align="center">
-<img src ="https://github-contributor-stats.vercel.app/api?username=lanokagato&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="contributor stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lanokagato&theme=dark&hide_border=false"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=lanokagato&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="contributor stats"/>
 
 </div>
 
